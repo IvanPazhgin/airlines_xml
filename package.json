@@ -1,0 +1,15 @@
+{
+  "name": "airlines",
+  "version": "1.0.0",
+  "description": "flight offers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Pazhgin <ivan.pazhgin@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "iconv-lite": "^0.6.3",
+    "xml-js": "^1.6.11"
+  }
+}
